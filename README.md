@@ -49,7 +49,7 @@ git clone https://github.com/codewithsadee/tourly.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+EMAIL:- (lavishnegi7249@gmail.com)
 
 ### License
 
